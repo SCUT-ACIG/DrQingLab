@@ -5,6 +5,6 @@
 
   # DrChunmeiQing's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[drchunmeiqing.github.io/DrQingLab](https://drchunmeiqing.github.io/DrQingLab)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_

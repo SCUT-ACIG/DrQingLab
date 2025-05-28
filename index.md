@@ -1,9 +1,10 @@
 ---
+
+
 ---
+# Advancing research in brain decoding, visual computing, and multimodal emotion analysis
 
-# DrChunmeiQing's Website
-
-An engaging 1-3 sentence description of your lab.
+We are a research lab at the School of Electronics and Information Engineering, South China University of Technology. Our work spans three core areas: brain decoding based on functional near-infrared spectroscopy (fNIRS), image/video style transfer, and multimodal video emotion recognition. We aim to explore intelligent systems that understand, generate, and respond to human-centered information.
 
 {% include section.html %}
 

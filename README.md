@@ -5,6 +5,6 @@
 
   # DrChunmeiQing's Website
 
-  Visit **[drchunmeiqing.github.io/DrQingLab](https://drchunmeiqing.github.io/DrQingLab)** 🚀
+  Visit **[scut-acig.github.io/DrQingLab](https://scut-acig.github.io/DrQingLab)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
